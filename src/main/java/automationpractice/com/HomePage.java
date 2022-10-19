@@ -13,6 +13,7 @@ public class HomePage {
 
     String signInElement= property.getProperty("HomePage","user.signin.element");
 
+    //click on signin jump to Authentication page
     public AuthenticationPage signInUser(){
         TestApp.getInstance().waitUntilNextElementAppears(By.xpath(signInElement), Duration.ofSeconds(20));
         driver.findElement(By.xpath(signInElement)).click();
