@@ -59,7 +59,7 @@ e-mail : ruwanimadumalids@gmail.com
 [Github] (https://github.com/RuwaniMadumali)
 
 ### Folder Structure
-![Ait text](https://drive.google.com/file/d/10aXUhYNsPTJFk8ZQ2TCgP_EjJ2p22pgz/view?usp=sharing)
+![Ait text](src/screen-shots/Folder-Structure.PNG)
 
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
